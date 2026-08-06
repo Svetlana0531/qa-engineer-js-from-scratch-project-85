@@ -9,3 +9,5 @@
   status: pass
 - summary: "Проверка отправки пустого решения"
   status: fail
+- summary: "Проверка повторной регистрации с одинаковой почтой"
+  status: fail
